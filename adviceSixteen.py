@@ -23,12 +23,7 @@ __time__ = '2018/2/6 13:53'
 a1 = "I am long string"
 b1 = 'I am long string'
 
-a = a1 is b1
-
-print(id(a1))
-
-print(id(b1))
-
+a = a1 is b1 # True
 if (a1 is b1):
     print(True) # True
 else:
