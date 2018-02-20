@@ -5,3 +5,5 @@
 - [adviceFour:在代码适当的增加注释](https://github.com/zhanghan114/Pythonic/blob/master/adviceFour.py).
 - [adviceFive:通过添加空格 使代码更优雅](https://github.com/zhanghan114/Pythonic/blob/master/adviceOne.py).
 - [adviceSix:编写函数的4个原则](https://github.com/zhanghan114/Pythonic/blob/master/adviceSix.py)
+- [adviceSeven:将常量集中到一个文件](https://github.com/zhanghan114/Pythonic/blob/master/adviceSeven.py)
+- [adviceSix:将常量集中到一个文件](https://github.com/zhanghan114/Pythonic/blob/master/adviceSeven.py)
